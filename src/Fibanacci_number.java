@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Fibanacci_number{
     
     static int fib(int n)
